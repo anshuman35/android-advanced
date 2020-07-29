@@ -1,0 +1,6 @@
+fun main(){
+
+val zx = 12
+
+println(zx.toInt())
+}
